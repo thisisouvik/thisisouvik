@@ -1,6 +1,6 @@
 # Hi there, I'm Souvik! 👋
 
-### 🚀 Aspiring Data Scientist | ML Beginner | Web Dev Enthusiast
+###  Aspiring Data Scientist | ML Beginner | Web Dev Enthusiast
 
 Welcome to my GitHub profile!  
 I'm currently learning the ropes of Machine Learning and Data Science, with a growing foundation in Web Development.
