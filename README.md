@@ -19,8 +19,8 @@
 
 <!-- GitHub Stats Section -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisisouvik&layout=compact" alt="Top Languages"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=thisisouvik&show_icons=true&theme=transparent" width="395" alt="Github Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=thisisouvik&show_icons=true&theme=dracula" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thisisouvik&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ---
