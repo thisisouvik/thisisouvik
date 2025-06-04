@@ -1,7 +1,7 @@
 <!-- Profile Readme Header -->
 <div align="center">
   <img src="https://media.tenor.com/EdiGYFaZg7sAAAAi/jaded-disappointed.gif" width="200"/>
-  <h2>Welcome to My GitHub Profile!</i></h2>
+  <h2>Welcome to My GitHub Sanctuary!</i></h2>
  <div align="center">
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F700&width=435&lines=Machine+Learning+Enthusiast;Aspiring+Data+Scientist;Open+to+Collaborations+%26+Ideas;Lifelong+Learner" alt="Typing SVG"/>
 </div>
