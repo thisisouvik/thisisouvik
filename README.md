@@ -7,7 +7,7 @@
 </div>
 </div>
 
----
+-----
 
 <!-- About Me Section -->
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi, I'm Souvik Mandal!
@@ -17,7 +17,7 @@
 - 🤝 Open to collaborating on exciting projects and innovative ideas
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/thisisouvik/) | [Email](mailto:souvikmandals10@gmail.com)
 
----
+-----
 
 <!-- GitHub Stats Section -->
 <div align="center">
@@ -25,7 +25,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thisisouvik&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
----
+-----
 
 <!-- Skills Section -->
 ### <img src="https://media.giphy.com/media/1oF1KAEYvmXBMo6uTS/giphy.gif" width="28"> Skills
@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/-Data%20Science-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
 
----
+-----
 
 <!-- Contact Section -->
 ### <img src="https://media.giphy.com/media/1BXa2alBjrCXC/giphy.gif" width="28"> Contact Me
