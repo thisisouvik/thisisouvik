@@ -3,7 +3,7 @@
   <img src="https://media.tenor.com/EdiGYFaZg7sAAAAi/jaded-disappointed.gif" width="200"/>
   <h2>Welcome to My GitHub Sanctuary!</i></h2>
  <div align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F700&width=435&center=True&lines=Machine+Learning+Developer;Aspiring+Data+Scientist;Open+to+Collaborations+%26+Ideas;Lifelong+Learner" alt="Typing SVG"/>
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F700&width=435&center=True&lines=Machine+Learning+Developer;Open+to+Collaborations+%26+Ideas;Lifelong+Learner" alt="Typing SVG"/>
 </div>
 </div>
 
