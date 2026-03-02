@@ -24,7 +24,6 @@
 <!-- GitHub Stats Section -->
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thisisouvik&theme=radical" height="150" alt="stats graph"  />
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/thisisouvik?cardType=level&theme=radical&preferLogin=false" height="150" alt="stats box"  />
 </div>
 
 -----
