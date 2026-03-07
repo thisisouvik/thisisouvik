@@ -1,6 +1,6 @@
 <!-- Profile Readme Header -->
 <div align="center">
-  <img src="https://i.pinimg.com/originals/8f/38/8e/8f388ee83be2782215f9c931b5d3b67b.gif" width="500" border= 2px/>
+  <img src="https://i.pinimg.com/originals/8f/38/8e/8f388ee83be2782215f9c931b5d3b67b.gif" width="400" border= 2px/>
   <h2>Welcome to My GitHub Sanctuary!</i></h2>
  <div align="center">
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F700&width=435&center=True&lines=App+Dev+backed+by+AI+Agents;Flutter+%26+Next.js+Developer;Open+to+Collab+%26+Freelancing" alt="Typing SVG"/>
