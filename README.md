@@ -3,7 +3,7 @@
   <img src="https://i.pinimg.com/originals/8f/38/8e/8f388ee83be2782215f9c931b5d3b67b.gif" width="400" border= 2px/>
   <h2>Welcome to My GitHub Sanctuary!</i></h2>
  <div align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F700&width=435&center=True&lines=App+Dev+backed+by+AI+Agents;Flutter+App+Developer;Open+to+Collab+%26+Freelancing" alt="Typing SVG"/>
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F700&width=435&center=True&lines=App+Dev+backed+by+AI+Agents;Web3+Developer;Open+to+Collab+%26+Freelancing" alt="Typing SVG"/>
 </div>
 </div>
 
@@ -15,7 +15,7 @@
 - 🎓 Currently pursuing **B.Tech in Computer Science & Engineering** 
 - 📱 Focus: **Building user-centric mobile applications with Flutter and BLoC** 
 - 🤖 Expertise: **AI-powered automation solutions and intelligent AI agent systems**
-- 🌐 Web: **Building dynamic modern frontends with Next.js & Tailwind CSS**
+- 🌐 Web3: **Building products across diffrent ecosystem (Algorand, Stellar & Midnight)**
 - 🤝 Open to collaborating on exciting projects and innovative ideas
 - 📫 How to reach me: [Portfolio](https://souvikmandal.me) | [LinkedIn](https://www.linkedin.com/in/thisisouvik/) | [Email](mailto:souvikmandals10@gmail.com)
 
